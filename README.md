@@ -7,7 +7,6 @@ A simple React app where you try to click as many times as possible before the t
 ## Demo
 
 ![Demo Image](./demo.png)  
-*Replace this with your own demo image or gif*
 
 ---
 
