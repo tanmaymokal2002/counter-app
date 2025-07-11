@@ -31,7 +31,7 @@ A simple React app where you try to click as many times as possible before the t
 ## Running Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/tanmaymokal2002/counter-app.git
+cd counter-app
 npm install
 npm start
